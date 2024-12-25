@@ -56,3 +56,7 @@ Time = 0 | curr_state = 00 | flag = 10
 Time = 10 | curr_state = 01 | flag = 10
 Time = 20 | curr_state = 10 | flag = xx
 Time = 30 | curr_state = 11 | flag = 00    */
+
+
+
+//here 2 state is incomplete so an stored element will be mapped to 2 state. So an storage element 2 bit latch will be created, so its an sequential machine.
